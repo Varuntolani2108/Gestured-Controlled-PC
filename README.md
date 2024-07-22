@@ -1,15 +1,5 @@
 # Gestured Controlled-PC
 
-## Table of Contents
-
-- Introduction
-- Features
-- Requirements
-- Installation
-- Usage
-- Demo
-- Acknowledgements
-
 ## Introduction
 
 Gestured-Controlled-PC is an innovative project that allows you to control your PC using hand and finger gestures. Utilizing computer vision and machine learning techniques, this project interprets gestures and translates them into commands to operate your computer seamlessly.
@@ -55,5 +45,5 @@ python main.py
 ## Acknowledgements
 
 - [Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide) for hand tracking
-- OpenCV for computer vision functions
-- PyAutoGUI for automating mouse and keyboard actions
+- [OpenCV](https://opencv.org/) for computer vision functions
+- [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) for automating mouse and keyboard actions
