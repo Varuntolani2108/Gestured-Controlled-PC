@@ -54,6 +54,6 @@ python main.py
 
 ## Acknowledgements
 
-- Mediapipe for hand tracking
+- [Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide) for hand tracking
 - OpenCV for computer vision functions
 - PyAutoGUI for automating mouse and keyboard actions
